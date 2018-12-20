@@ -1,3 +1,5 @@
+.. _Sympy mechanics:
+
 ===================
 Classical Mechanics
 ===================

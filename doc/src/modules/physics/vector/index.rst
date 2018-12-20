@@ -1,3 +1,5 @@
+.. _Sympy vectors:
+
 =========================
 The Physics Vector Module
 =========================

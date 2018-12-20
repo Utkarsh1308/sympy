@@ -1,3 +1,5 @@
+.. _kinematics api:
+
 =======================
 Kinematics (Docstrings)
 =======================
